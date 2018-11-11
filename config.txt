@@ -1,6 +1,6 @@
-token=
-owner=
-prefix=
+token=NTA1MDQxNTQ3NTQ5NzM2OTYw.DspAnA.k9XL9MwT5YpRefq9OiZaaa3se-E
+owner=268782502305333250
+prefix=E
 game=
 stayinchannel=true
 songinstatus=false
